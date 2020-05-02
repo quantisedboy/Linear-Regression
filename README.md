@@ -11,5 +11,6 @@
     Library Used : Scikit Learn   
     Objective : Predict the Rent  
     Model : Multi Linear Regression  
-    Result :  
+    Result :    
+    ![Figure_1](https://user-images.githubusercontent.com/45620309/80861499-9c12a880-8c8c-11ea-8e73-860fa030af38.png)  
    
