@@ -20,5 +20,6 @@
      Objective : Predict the # of Aces of the Player  
      Model : Multilayer Perceptron Model  
      Result :   
+     ![y_test_predicted_scattered_comparison](https://user-images.githubusercontent.com/45620309/80924455-a7f28d80-8da6-11ea-876d-37a719a1bfcf.png)  
      
    
